@@ -55,7 +55,7 @@ SELECT Genre, SUM(Votes) AS Total_Votes FROM movies GROUP BY Genre;
 
 ### 🔗 GitHub Repo Link:
 
-
+https://github.com/adarshwahewal/IMDB-Movies
 
 ```
 
