@@ -1,10 +1,3 @@
-# IMDB-MoviesBilkul bhai! Neeche maine tumhare **IMDb MySQL project** ke liye ek complete `README.md` section bana diya hai jo tum directly GitHub pe use kar sakte ho 👇
-
----
-
-### 📁 `README.md` – IMDb MySQL Project
-
-````markdown
 ## 🎬 IMDb Movies SQL Database Project
 
 This project involves designing and managing a MySQL database to store and analyze IMDb-style movie data. The schema is built with relevant fields like Movie Name, Rating, Genre, Year, and Duration.
@@ -57,11 +50,5 @@ SELECT Genre, SUM(Votes) AS Total_Votes FROM movies GROUP BY Genre;
 
 https://github.com/adarshwahewal/IMDB-Movies
 
-```
 
----
 
-Bhai bas `yourusername` ko apne GitHub username se replace kar dena.
-
-Agar chaaho to me `README.md` ka file bhi likh ke de sakta hoon copy-paste ready format me ya `.sql` + `.md` dono zip karke bhej du. Batao?
-```
